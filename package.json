@@ -1,0 +1,28 @@
+{
+  "name": "@easychessanimations/fetchutils",
+  "version": "1.0.1",
+  "description": "Package fetchutils.",
+  "main": "./lib/fetchutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fetchutils": "./lib/fetchutils.js"
+  },
+  "keywords": [
+    "fetchutils"
+  ],
+  "author": "easychessanimations",
+  "license": "MIT",
+  "homepage": "https://github.com/easychessanimations/fetchutils",
+  "bugs": {
+    "url": "https://github.com/easychessanimations/fetchutils/issues",
+    "email": "chessbotroulette@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easychessanimations/fetchutils.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
